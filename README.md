@@ -5,7 +5,7 @@
 ### Introduction to Cybersecurity
 
 <div align="center">
-  <img src="" width="850" alt="Certificado Cisco">
+  <img src="Captura de pantalla 2026-03-13 150450.png" width="850" alt="Certificado Cisco">
 </div>
 
 ---
